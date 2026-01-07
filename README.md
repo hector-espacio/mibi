@@ -1,3 +1,3 @@
-# mibi
+# Portfolio en consultor businesse intelligence
+https://hector-espacio.github.io/consultorbi/
 
-https://hector-espacio.github.io/mibi/
